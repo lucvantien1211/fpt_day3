@@ -85,6 +85,7 @@ Kết quả: chỉ còn giá trị mới (“Danang”), không còn biết trư
 
 ✅ Ưu điểm:
 - Truy vấn nhanh, ít dòng.
+
 ⚠️ Nhược điểm:
 - Không lưu được nhiều hơn một lần thay đổi.
 
@@ -108,6 +109,7 @@ Kết quả: chỉ còn giá trị mới (“Danang”), không còn biết trư
 
 ✅ Ưu điểm:
 - Gọn gàng, tách biệt dữ liệu hiện tại và lịch sử.  
+
 ⚠️ Nhược điểm:
 - Phức tạp hơn khi truy vấn kết hợp 2 bảng.
 
@@ -125,5 +127,6 @@ Kết quả: chỉ còn giá trị mới (“Danang”), không còn biết trư
 
 ✅ Ưu điểm:
 - Có thể truy vết lịch sử và so sánh giá trị cũ – mới dễ dàng.  
+
 ⚠️ Nhược điểm:
 - Thiết kế phức tạp, tốn tài nguyên khi ETL.
